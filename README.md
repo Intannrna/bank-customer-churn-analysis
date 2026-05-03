@@ -102,10 +102,9 @@ bank-customer-churn-analysis/
 ├── notebooks/
 │   └── Bank_Customer_Churn_Analysis.ipynb  # Executive summary & recommendations
 │
-├── outputs/
-│   └── figures/                     # Exported charts
-│
-└── README.md
+└──  outputs/
+    └── figures/                     # Exported charts
+
 ```
  
 ---
