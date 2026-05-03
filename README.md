@@ -97,8 +97,7 @@ Deploy targeted satisfaction surveys for female customers and investigate countr
 bank-customer-churn-analysis/
 │
 ├── data/
-│   ├── raw/                         # Original dataset (do not edit)
-│   └── processed/                   # Cleaned data output
+│   └── data.csv                   # Cleaned data output
 │
 ├── notebooks/
 │   └── Bank_Customer_Churn_Analysis.ipynb  # Executive summary & recommendations
